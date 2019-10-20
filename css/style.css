@@ -1,0 +1,26 @@
+body {
+    background-color: #6f84f7;
+    color: white;
+}
+
+#flexContainer {
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center;
+    margin: 1rem 0;
+}
+
+#fixedPtsCanvas {
+    border: 2px solid #343a40; 
+    background-color: white;
+}
+
+#aStar {
+    display: inline;
+}
+
+#infoText {
+    font-size: 1.1rem;
+    margin: 1rem 0;
+}
